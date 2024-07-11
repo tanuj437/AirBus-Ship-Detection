@@ -54,7 +54,7 @@ The goal of this AirBus Ship detection project is to accurately identify and seg
 
 2. **Run the Streamlit app:**
     ```sh
-    streamlit run app.py
+    streamlit run Webapp/app.py
     ```
 
 3. **Open the provided local URL in your web browser to access the app.**
